@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.321,=C:\Users\Alekc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.264,=C:\Users\Alekc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.217,=C:\Users\Alekc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,C:\Users\Alekc\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Alekc\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,=C:\Практика\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.389,=C:\Users\Alekc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Практика\Projects\Unit2.h=C:\Практика\Projects\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,=C:\Users\Alekc\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Практика\Projects\Unit2.cpp=C:\Практика\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Практика\Projects\Unit2.dfm=C:\Практика\Projects\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=C:\Users\Alekc\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.681,=C:\Users\Alekc\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.240,=C:\Users\Alekc\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
